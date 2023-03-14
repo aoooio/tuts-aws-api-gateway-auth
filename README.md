@@ -1,1 +1,1 @@
-# tuts-aws-api-gateway-auth
+# Authorising AWS API gateway with cognito and IAM
